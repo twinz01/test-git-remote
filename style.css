@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h1 {
+  background-color: cadetblue;
+  padding: 10px;
+}
